@@ -31,6 +31,8 @@ Site **one page** com seções:
 * Ana Vitória Chaves
 * Rayane P.
 * Laine C.
+
+  
 IFPI – Campus Pedro II • Curso Técnico em Informática
 
 📄 Projeto com fins educacionais.
